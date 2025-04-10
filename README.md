@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @janngomaa
-- 👀 I’m interested in Data Engineering, Data Science and Cloud Computing.
-- 🌱 I’m currently learning how move a number of apps runnging on a onprime Kuberntes cluster to CGP.
-- 💞️ I’m looking to collaborate on Data Engineering, Data Science and Cloud Computing.
-- 📫 How to reach me djiby.sow.a@gmail.com
+- 👀 I build AI Agents, robust and scalable Data Pipelines.
+- 🌱 I’m currently automating my routine task and helping customers and colleagues navigate the AI era.
+- 💞️ I’m looking to collaborate on AI Agents, and Data Engineering.
+- 📫 How to reach me djiby.sow@guumel.com
 
 <!---
 janngomaa/janngomaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
